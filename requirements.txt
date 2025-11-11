@@ -1,0 +1,6 @@
+rich==13.3.4
+pyotp==2.9.0
+pyzbar==0.1.9
+pillow==11.2.1
+protobuf==5.29.4
+qrcode==8.1
